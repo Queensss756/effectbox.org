@@ -1,4 +1,4 @@
-const video = document.querySelector("img");
+const image = document.querySelector("img");
 const controls = document.querySelectorAll("input");
 const output = document.querySelector("output");
 
